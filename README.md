@@ -1,212 +1,159 @@
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
 
-<head>
-<meta charset="UTF-8">
-<title>GigShield – AI-Powered Parametric Insurance</title>
-
-<style>
-
-body{
-font-family: Arial, sans-serif;
-margin:40px;
-background:#f7f9fc;
-line-height:1.6;
-}
-
-h1{
-text-align:center;
-color:#2c3e50;
-}
-
-h2{
-color:#2c3e50;
-border-bottom:2px solid #eee;
-padding-bottom:5px;
-}
-
-.section{
-background:white;
-padding:25px;
-margin-bottom:30px;
-border-radius:8px;
-box-shadow:0px 2px 8px rgba(0,0,0,0.1);
-}
-
-ul{
-margin-left:20px;
-}
-
-ol{
-margin-left:20px;
-}
-
-.header{
-text-align:center;
-margin-bottom:40px;
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="header">
-<h1>GigShield</h1>
+<h1>🛡️ GigShield</h1>
 <h3>AI-Powered Parametric Insurance for Gig Workers</h3>
-</div>
-
-<div class="section">
-
-<h2>Problem Statement</h2>
 
 <p>
-Gig workers such as food delivery, grocery delivery, and e-commerce partners depend on daily earnings for financial stability. However, external disruptions like heavy rain, heatwaves, pollution, traffic congestion, and sudden zone closures reduce their working hours and cause <b>20–30% income loss</b>.
+Protecting gig workers from income loss caused by environmental disruptions using AI-driven parametric insurance.
 </p>
 
-<p>
-Most insurance systems focus on health, accidents, or vehicle protection, but there is no dedicated solution that protects gig workers from income loss caused by environmental disruptions. Traditional claim-based insurance is slow and inefficient for the gig economy.
-</p>
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Insurance-Tech-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gig-Economy-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge">
 
 </div>
 
-<div class="section">
+<hr>
 
-<h2>Proposed Solution</h2>
-
-<p>
-GigShield is an <b>AI-powered parametric insurance platform</b> designed specifically for gig workers. The platform continuously monitors real-time weather, traffic, and environmental data and uses machine learning models to predict disruption risk.
-</p>
+<h2>🚨 Problem Statement</h2>
 
 <p>
-When predefined disruption thresholds are crossed, the system automatically triggers payouts without requiring manual claims. The platform follows a <b>dynamic weekly premium model</b> aligned with gig workers’ earnings cycle.
+Gig workers such as <b>food delivery, grocery delivery, and e-commerce partners</b> rely on daily earnings for financial stability. However, external disruptions like:
 </p>
-
-</div>
-
-<div class="section">
-
-<h2>Key Features</h2>
 
 <ul>
-
-<li><b>AI Risk Prediction</b> – Machine learning models analyze weather, traffic, and pollution data.</li>
-
-<li><b>Dynamic Weekly Premium</b> – Premium adjusts based on disruption risk and worker activity.</li>
-
-<li><b>Parametric Automatic Payout</b> – Compensation automatically triggered when disruption thresholds are crossed.</li>
-
-<li><b>Fraud Detection</b> – AI-based anomaly detection with GPS verification.</li>
-
-<li><b>Real-Time Monitoring</b> – Continuous monitoring using weather and traffic APIs.</li>
-
-<li><b>Worker Dashboard</b> – Displays premium details, alerts, and payout history.</li>
-
-<li><b>Risk Zone Map</b> – AI-powered heatmap identifying high-risk delivery areas.</li>
-
-<li><b>Universal Worker Insurance ID</b> – One insurance identity that works across multiple gig platforms.</li>
-
+<li>🌧️ Heavy Rain</li>
+<li>🌡️ Heatwaves</li>
+<li>🌫️ Pollution</li>
+<li>🚦 Traffic Congestion</li>
+<li>🚫 Zone Closures</li>
 </ul>
 
-</div>
+<p>
+These factors reduce working hours and cause <b>20–30% income loss</b>.
+</p>
 
-<div class="section">
+<p>
+Existing insurance systems mainly focus on <b>health, accidents, or vehicles</b>. There is no dedicated system protecting gig workers from <b>income loss caused by environmental disruptions</b>. Traditional claim-based insurance is slow and inefficient for the gig economy.
+</p>
 
-<h2>Workflow</h2>
+<hr>
+
+<h2>💡 Proposed Solution</h2>
+
+<p>
+<b>GigShield</b> is an <b>AI-powered parametric insurance platform</b> designed specifically for gig workers.
+</p>
+
+<p>
+The platform continuously monitors <b>weather, traffic, and environmental data</b> using APIs and machine learning models to predict disruption risks.
+</p>
+
+<p>
+When predefined thresholds are crossed, the system automatically triggers payouts without requiring manual claims.
+</p>
+
+<p>
+It follows a <b>dynamic weekly premium model</b> aligned with gig workers’ earnings cycle.
+</p>
+
+<hr>
+
+<h2>✨ Key Features</h2>
+
+<ul>
+<li>🤖 <b>AI Risk Prediction</b> – ML models analyze weather, traffic, and pollution data.</li>
+<li>📊 <b>Dynamic Weekly Premium</b> – Premium adjusts based on disruption risk and worker activity.</li>
+<li>⚡ <b>Parametric Automatic Payout</b> – Instant payouts triggered by disruption thresholds.</li>
+<li>🛑 <b>Fraud Detection</b> – AI anomaly detection with GPS verification.</li>
+<li>📡 <b>Real-Time Monitoring</b> – Continuous monitoring via weather & traffic APIs.</li>
+<li>📱 <b>Worker Dashboard</b> – Shows premium, alerts, and payout history.</li>
+<li>🗺️ <b>Risk Zone Map</b> – AI heatmap highlighting high-risk delivery zones.</li>
+<li>🆔 <b>Universal Worker Insurance ID</b> – Works across multiple gig platforms.</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ System Workflow</h2>
 
 <ol>
-
-<li>Worker registers on the GigShield platform and links their delivery platform ID.</li>
-
-<li>The system performs AI-based risk profiling using historical weather, traffic, and pollution data.</li>
-
-<li>Weekly insurance premium is calculated based on predicted disruption risk.</li>
-
-<li>System continuously monitors environmental data through APIs.</li>
-
-<li>If disruption thresholds occur (heavy rain, high AQI, traffic congestion), the parametric trigger activates.</li>
-
-<li>Fraud detection verifies worker GPS location and delivery activity.</li>
-
-<li>Automatic payout is transferred to the worker’s bank account or digital wallet.</li>
-
+<li>Worker registers on the GigShield platform.</li>
+<li>Links delivery platform ID.</li>
+<li>AI performs risk profiling using historical data.</li>
+<li>Weekly insurance premium is calculated.</li>
+<li>System continuously monitors environmental APIs.</li>
+<li>Disruption thresholds trigger parametric payout.</li>
+<li>Fraud detection verifies GPS location and activity.</li>
+<li>Automatic payout sent to bank account or wallet.</li>
 </ol>
 
-</div>
+<hr>
 
-<div class="section">
-
-<h2>Technology Stack</h2>
+<h2>🧠 Technology Stack</h2>
 
 <h3>Frontend</h3>
 <ul>
-<li>React.js – Admin Dashboard</li>
-<li>Flutter – Worker Mobile App</li>
+<li>⚛️ React.js – Admin Dashboard</li>
+<li>📱 Flutter – Worker Mobile App</li>
 </ul>
 
 <h3>Backend</h3>
 <ul>
-<li>Node.js / FastAPI</li>
+<li>🚀 Node.js</li>
+<li>⚡ FastAPI</li>
 </ul>
 
 <h3>Machine Learning</h3>
 <ul>
-<li>Random Forest / Gradient Boosting – Risk prediction</li>
-<li>LSTM – Disruption forecasting</li>
-<li>Isolation Forest – Fraud detection</li>
+<li>🌳 Random Forest / Gradient Boosting – Risk prediction</li>
+<li>📈 LSTM – Disruption forecasting</li>
+<li>🔍 Isolation Forest – Fraud detection</li>
 </ul>
 
 <h3>Database</h3>
 <ul>
-<li>PostgreSQL</li>
-<li>Redis</li>
+<li>🐘 PostgreSQL</li>
+<li>⚡ Redis</li>
 </ul>
 
 <h3>Deployment</h3>
 <ul>
-<li>AWS</li>
-<li>Docker</li>
-<li>Firebase</li>
+<li>☁️ AWS</li>
+<li>🐳 Docker</li>
+<li>🔥 Firebase</li>
 </ul>
 
-</div>
+<hr>
 
-<div class="section">
-
-<h2>Impact</h2>
+<h2>🌍 Impact</h2>
 
 <ul>
-
-<li><b>Gig Workers:</b> Financial protection during disruptions.</li>
-
-<li><b>Insurance Providers:</b> Reduced operational cost with automated claims.</li>
-
-<li><b>Delivery Platforms:</b> Increased worker trust and retention.</li>
-
+<li>👷 <b>Gig Workers</b> – Financial protection during disruptions.</li>
+<li>🏢 <b>Insurance Providers</b> – Reduced operational cost with automated claims.</li>
+<li>🚚 <b>Delivery Platforms</b> – Increased worker trust and retention.</li>
 </ul>
 
-</div>
+<hr>
 
-<div class="section">
-
-<h2>Future Enhancements</h2>
+<h2>🚀 Future Enhancements</h2>
 
 <ul>
-
-<li>AI-based income forecasting</li>
-
-<li>Blockchain-based insurance transparency</li>
-
-<li>Integration with delivery platforms for real-time activity tracking</li>
-
-<li>Advanced deep learning risk prediction</li>
-
-<li>Expansion to other gig sectors like ride-hailing drivers</li>
-
+<li>📊 AI-based income forecasting</li>
+<li>⛓️ Blockchain-based insurance transparency</li>
+<li>🔗 Integration with delivery platforms</li>
+<li>🧠 Advanced deep learning risk prediction</li>
+<li>🌎 Expansion to ride-hailing and other gig sectors</li>
 </ul>
 
-</div>
+<hr>
 
-</body>
-</html>
+<div align="center">
+
+<h3>⭐ If you like this project, consider giving it a star!</h3>
+
+<p>
+Built for the future of the <b>Gig Economy</b>.
+</p>
+
+</div>
