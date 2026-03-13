@@ -17,7 +17,7 @@ Protecting gig workers from income loss caused by environmental disruptions usin
 
 ---
 
-## Problem Understanding
+## <img src="https://img.icons8.com/color/28/error.png"/> Problem Understanding
 
 Gig workers such as food delivery partners depend completely on daily earnings. Environmental disruptions like heavy rain, heatwaves, air pollution, traffic congestion, or sudden restrictions can significantly reduce their working hours, leading to **20–30% income loss**.
 
@@ -25,36 +25,41 @@ Existing insurance solutions mainly cover health, accidents, or vehicles, but th
 
 ---
 
-## Persona-Based Scenario
+## <img src="https://img.icons8.com/color/28/user.png"/> Persona-Based Scenario
 
 ### Ravi – Food Delivery Partner
 
-- **Age:** 26  
-- **Platform:** Food delivery platforms  
-- **Daily Earnings:** ₹800–₹1000  
-- **Location:** Urban delivery zones  
+<img src="https://img.icons8.com/color/20/user.png"/> **Age:** 26  
+<img src="https://img.icons8.com/color/20/delivery.png"/> **Platform:** Food delivery platforms  
+<img src="https://img.icons8.com/color/20/money.png"/> **Daily Earnings:** ₹800–₹1000  
+<img src="https://img.icons8.com/color/20/worldwide-location.png"/> **Location:** Urban delivery zones  
 
 ### Scenario
 
-Ravi starts his shift expecting to complete 15–18 deliveries. Suddenly heavy rain begins in his area. Orders reduce and roads become unsafe, forcing him to stop early. By the end of the week, he loses nearly **₹3000–₹4000** in income.
+Ravi begins his shift expecting to complete 15–18 deliveries. Suddenly heavy rain begins in his area. Orders reduce and roads become unsafe, forcing him to stop early. By the end of the week, he loses nearly **₹3000–₹4000** in income.
 
 GigShield ensures Ravi receives automatic compensation when environmental disruptions affect his ability to work.
 
 ---
 
-# Application Workflow
+# <img src="https://img.icons8.com/color/28/workflow.png"/> Application Workflow
 
 <p align="center">
 
-<img src="https://camo.githubusercontent.com/4d955279f36ed7bc0b23acc81fca2272197b41de17a852eced7688919b981d01/68747470733a2f2f73646d6e7470726175737472616c6961656173742e6f616975736572636f6e74656e742e636f6d2f66696c65732f30303030303030302d373861632d373166612d386136302d6431396263333131363238312f7261773f73653d323032362d30332d31335431303a30363a30355a2673703d722673763d323032362d30322d30362673723d6226736369643d30326634376539632d366566662d343430642d386530612d61313937383962303235633226736b6f69643d64353632376534632d353636622d343736312d613935342d35343939336230656431376226736b7469643d61343863636135362d653664612d343834652d613831342d39633834393635326263623326736b743d323032362d30332d31325432323a30353a30315a26736b653d323032362d30332d31335432323a30353a30315a26736b733d6226736b763d323032362d30322d3036267369673d34596954366838313045335559334779526a59434432677674676c46787a30634267653047747147494c67253344" width="900">
+<img src="https://camo.githubusercontent.com/4d955279f36ed7bc0b23acc81fca2272197b41de17a852eced7688919b981d01/68747470733a2f2f73646d6e7470726175737472616c6961656173742e6f616975736572636f6e74656e742e636f6d2f66696c65732f30303030303030302d373861632d373166612d386136302d6431396263333131363238312f7261773f73653d323032362d30332d31335431303a30363a30355a2673703d722673763d323032362d30322d30362673723d6226736369643d30326634376539632d366566662d343430642d386530612d61313937383962303235633226736b6f69643d64353632376534632d353636622d343736312d613935342d35343939336230656431376226736b7469643d61343863636135362d653664612d343834652d613831342d39633834393635326263623326736b743d323032362d30332d31325432323a30353a30315a26736b653d323032362d30332d31335432323a30353a30315Z26736b733d6226736b763d323032362d30322d3036267369673d34596954366838313045335559334779526a59434432677674676c46787a30634267653047747147494c67253344" width="900">
 
 </p>
 
-Worker Registration → Insurance ID Generation → AI Risk Analysis → GPS Verification → Parametric Trigger Activation → Automatic Payout
+<img src="https://img.icons8.com/color/20/add-user-group-man-man.png"/> Worker Registration  
+<img src="https://img.icons8.com/color/20/id-verified.png"/> Insurance ID Generation  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> AI Risk Analysis  
+<img src="https://img.icons8.com/color/20/worldwide-location.png"/> GPS Verification  
+<img src="https://img.icons8.com/color/20/lightning-bolt.png"/> Parametric Trigger Activation  
+<img src="https://img.icons8.com/color/20/bank-card-back-side.png"/> Automatic Payout  
 
 ---
 
-# System Architecture
+# <img src="https://img.icons8.com/color/28/network.png"/> System Architecture
 
 <p align="center">
 
@@ -66,100 +71,85 @@ The GigShield system integrates mobile applications, environmental APIs, AI pred
 
 ---
 
-# Weekly Premium Model
+# <img src="https://img.icons8.com/color/28/money.png"/> Weekly Premium Model
 
-GigShield uses a **dynamic weekly premium model** aligned with gig workers’ earning cycles.
+<img src="https://img.icons8.com/color/20/combo-chart.png"/> Environmental risk level  
+<img src="https://img.icons8.com/color/20/graph.png"/> Historical disruption frequency  
+<img src="https://img.icons8.com/color/20/activity-history.png"/> Worker activity patterns  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> AI predicted disruption probability  
 
-Premium calculation is based on:
-
-- Environmental risk level
-- Historical disruption frequency
-- Worker activity patterns
-- AI predicted disruption probability
-
-Workers pay small weekly premiums making insurance affordable.
+Workers pay small weekly premiums making the insurance affordable and flexible.
 
 ---
 
-# Parametric Triggers
+# <img src="https://img.icons8.com/color/28/lightning-bolt.png"/> Parametric Triggers
 
-Parametric triggers automatically activate payouts when thresholds are crossed.
-
-Examples:
-
-- Rainfall exceeding threshold  
-- AQI reaching hazardous levels  
-- Extreme temperatures  
-- Severe traffic congestion  
-- Government movement restrictions  
+<img src="https://img.icons8.com/color/20/rain.png"/> Rainfall exceeding threshold  
+<img src="https://img.icons8.com/color/20/air-quality.png"/> AQI reaching hazardous levels  
+<img src="https://img.icons8.com/color/20/temperature.png"/> Extreme temperatures  
+<img src="https://img.icons8.com/color/20/traffic-jam.png"/> Severe traffic congestion  
+<img src="https://img.icons8.com/color/20/no-entry.png"/> Government movement restrictions  
 
 ---
 
-# AI / ML Integration
+# <img src="https://img.icons8.com/color/28/artificial-intelligence.png"/> AI / ML Integration
 
-### Risk Prediction
-Random Forest / Gradient Boosting models predict disruption risk.
-
-### Disruption Forecasting
-LSTM models forecast high-risk environmental conditions.
-
-### Fraud Detection
-Isolation Forest identifies suspicious worker activity.
-
-### Risk Zone Mapping
-AI generates delivery zone heatmaps.
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> **Risk Prediction** – Random Forest / Gradient Boosting  
+<img src="https://img.icons8.com/color/20/line-chart.png"/> **Disruption Forecasting** – LSTM Models  
+<img src="https://img.icons8.com/color/20/privacy.png"/> **Fraud Detection** – Isolation Forest  
+<img src="https://img.icons8.com/color/20/heat-map.png"/> **Risk Zone Mapping** – AI Heatmaps  
 
 ---
 
-# Technology Stack
+# <img src="https://img.icons8.com/color/28/source-code.png"/> Technology Stack
 
 ### Frontend
-- React.js – Admin Dashboard  
-- Flutter – Worker Mobile App  
+<img src="https://img.icons8.com/color/20/react-native.png"/> React.js – Admin Dashboard  
+<img src="https://img.icons8.com/color/20/flutter.png"/> Flutter – Worker Mobile App  
 
 ### Backend
-- Node.js  
-- FastAPI  
+<img src="https://img.icons8.com/color/20/nodejs.png"/> Node.js  
+<img src="https://img.icons8.com/color/20/api.png"/> FastAPI  
 
 ### Machine Learning
-- Random Forest  
-- Gradient Boosting  
-- LSTM  
-- Isolation Forest  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> Random Forest  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> Gradient Boosting  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> LSTM  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> Isolation Forest  
 
 ### Database
-- PostgreSQL  
-- Redis  
+<img src="https://img.icons8.com/color/20/postgreesql.png"/> PostgreSQL  
+<img src="https://img.icons8.com/color/20/database.png"/> Redis  
 
 ### APIs
-- OpenWeatherMap  
-- Traffic APIs  
-- Google Maps / Location API  
+<img src="https://img.icons8.com/color/20/cloud.png"/> OpenWeatherMap API  
+<img src="https://img.icons8.com/color/20/traffic-jam.png"/> Traffic API  
+<img src="https://img.icons8.com/color/20/google-maps.png"/> Google Maps / Location API  
 
 ### Deployment
-- AWS  
-- Docker  
-- Firebase  
+<img src="https://img.icons8.com/color/20/amazon-web-services.png"/> AWS  
+<img src="https://img.icons8.com/color/20/docker.png"/> Docker  
+<img src="https://img.icons8.com/color/20/firebase.png"/> Firebase  
 
 ---
 
-# Expected Impact
+# <img src="https://img.icons8.com/color/28/earth-planet.png"/> Expected Impact
 
-**Gig Workers:** Financial protection during disruptions  
+<img src="https://img.icons8.com/color/20/delivery.png"/> **Gig Workers:** Financial protection during disruptions  
 
-**Insurance Providers:** Reduced operational cost with automated claims  
+<img src="https://img.icons8.com/color/20/company.png"/> **Insurance Providers:** Reduced operational cost with automated claims  
 
-**Delivery Platforms:** Improved worker trust and retention  
+<img src="https://img.icons8.com/color/20/trust.png"/> **Delivery Platforms:** Improved worker trust and retention  
 
 ---
 
-# Future Enhancements
+# <img src="https://img.icons8.com/color/28/future.png"/> Future Enhancements
 
-- AI income forecasting  
-- Blockchain insurance transparency  
-- Integration with gig platforms  
-- Advanced deep learning models  
-- Expansion to ride-hailing workers  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> AI income forecasting  
+<img src="https://img.icons8.com/color/20/blockchain.png"/> Blockchain insurance transparency  
+<img src="https://img.icons8.com/color/20/api.png"/> Platform integrations  
+<img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> Advanced deep learning models  
+<img src="https://img.icons8.com/color/20/taxi.png"/> Expansion to ride-hailing workers  
 
 ---
 
