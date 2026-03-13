@@ -46,7 +46,7 @@ GigShield ensures Ravi receives automatic compensation when environmental disrup
 
 <p align="center">
 
-<img src="https://chatgpt.com/s/m_69b3e080a6188191971a589d4833ee11" width="900">
+<img src="https://camo.githubusercontent.com/4d955279f36ed7bc0b23acc81fca2272197b41de17a852eced7688919b981d01/68747470733a2f2f73646d6e7470726175737472616c6961656173742e6f616975736572636f6e74656e742e636f6d2f66696c65732f30303030303030302d373861632d373166612d386136302d6431396263333131363238312f7261773f73653d323032362d30332d31335431303a30363a30355a2673703d722673763d323032362d30322d30362673723d6226736369643d30326634376539632d366566662d343430642d386530612d61313937383962303235633226736b6f69643d64353632376534632d353636622d343736312d613935342d35343939336230656431376226736b7469643d61343863636135362d653664612d343834652d613831342d39633834393635326263623326736b743d323032362d30332d31325432323a30353a30315a26736b653d323032362d30332d31335432323a30353a30315a26736b733d6226736b763d323032362d30322d3036267369673d34596954366838313045335559334779526a59434432677674676c46787a30634267653047747147494c67253344" width="900">
 
 </p>
 
@@ -58,7 +58,7 @@ Worker Registration → Insurance ID Generation → AI Risk Analysis → GPS Ver
 
 <p align="center">
 
-<img src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-78ac-71fa-8a60-d19bc3116281/raw?se=2026-03-13T10:06:05Z&sp=r&sv=2026-02-06&sr=b&scid=02f47e9c-6eff-440d-8e0a-a19789b025c2&skoid=d5627e4c-566b-4761-a954-54993b0ed17b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-03-12T22:05:01Z&ske=2026-03-13T22:05:01Z&sks=b&skv=2026-02-06&sig=4YiT6h810E3UY3GyRjYCD2gvtglFxz0cBge0GtqGILg%3D" width="900">
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a10c7208bb27f1e9746e48b9&ts=492609&p=fs&cid=1&sig=ce902c953046247bc85ca0ad3373a97cfe8f0bf94a9e12cd9120a107a358d466&v=0" width="900">
 
 </p>
 
@@ -87,11 +87,11 @@ Parametric triggers automatically activate payouts when thresholds are crossed.
 
 Examples:
 
-- Rainfall exceeding threshold
-- AQI reaching hazardous levels
-- Extreme temperatures
-- Severe traffic congestion
-- Government movement restrictions
+- Rainfall exceeding threshold  
+- AQI reaching hazardous levels  
+- Extreme temperatures  
+- Severe traffic congestion  
+- Government movement restrictions  
 
 ---
 
@@ -114,32 +114,32 @@ AI generates delivery zone heatmaps.
 # Technology Stack
 
 ### Frontend
-- React.js – Admin Dashboard
-- Flutter – Worker Mobile App
+- React.js – Admin Dashboard  
+- Flutter – Worker Mobile App  
 
 ### Backend
-- Node.js
-- FastAPI
+- Node.js  
+- FastAPI  
 
 ### Machine Learning
-- Random Forest
-- Gradient Boosting
-- LSTM
-- Isolation Forest
+- Random Forest  
+- Gradient Boosting  
+- LSTM  
+- Isolation Forest  
 
 ### Database
-- PostgreSQL
-- Redis
+- PostgreSQL  
+- Redis  
 
 ### APIs
-- OpenWeatherMap
-- Traffic APIs
-- Google Maps / Location API
+- OpenWeatherMap  
+- Traffic APIs  
+- Google Maps / Location API  
 
 ### Deployment
-- AWS
-- Docker
-- Firebase
+- AWS  
+- Docker  
+- Firebase  
 
 ---
 
@@ -149,17 +149,17 @@ AI generates delivery zone heatmaps.
 
 **Insurance Providers:** Reduced operational cost with automated claims  
 
-**Delivery Platforms:** Improved worker trust and retention
+**Delivery Platforms:** Improved worker trust and retention  
 
 ---
 
 # Future Enhancements
 
-- AI income forecasting
-- Blockchain insurance transparency
-- Integration with gig platforms
-- Advanced deep learning models
-- Expansion to ride-hailing workers
+- AI income forecasting  
+- Blockchain insurance transparency  
+- Integration with gig platforms  
+- Advanced deep learning models  
+- Expansion to ride-hailing workers  
 
 ---
 
