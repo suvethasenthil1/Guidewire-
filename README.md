@@ -30,11 +30,11 @@ Gig workers such as <b>food delivery, grocery delivery, and e-commerce partners<
 </p>
 
 <ul>
-<li><img src="https://img.icons8.com/color/20/rain.png"/> Heavy Rain</li>
-<li><img src="https://img.icons8.com/color/20/temperature.png"/> Heatwaves</li>
-<li><img src="https://img.icons8.com/color/20/smog.png"/> Pollution</li>
-<li><img src="https://img.icons8.com/color/20/traffic-jam.png"/> Traffic Congestion</li>
-<li><img src="https://img.icons8.com/color/20/no-entry.png"/> Zone Closures</li>
+<li> Heavy Rain</li>
+<li> Heatwaves</li>
+<li> Pollution</li>
+<li> Traffic Congestion</li>
+<li> Zone Closures</li>
 </ul>
 
 <p>
@@ -73,13 +73,13 @@ Key Features
 
 <ul>
 <li><b>AI Risk Prediction</b> – ML models analyze environmental data.</li>
-<li><img src="https://img.icons8.com/color/20/combo-chart.png"/> <b>Dynamic Weekly Premium</b> – Premium adjusts based on disruption risk.</li>
-<li><img src="https://img.icons8.com/color/20/lightning-bolt.png"/> <b>Automatic Parametric Payout</b></li>
-<li><img src="https://img.icons8.com/color/20/privacy.png"/> <b>Fraud Detection</b> with GPS verification</li>
-<li><img src="https://img.icons8.com/color/20/cloud.png"/> <b>Real-Time Monitoring</b> via APIs</li>
-<li><img src="https://img.icons8.com/color/20/dashboard-layout.png"/> <b>Worker Dashboard</b></li>
-<li><img src="https://img.icons8.com/color/20/worldwide-location.png"/> <b>Risk Zone Map</b></li>
-<li><img src="https://img.icons8.com/color/20/id-verified.png"/> <b>Universal Worker Insurance ID</b></li>
+<li> <b>Dynamic Weekly Premium</b> – Premium adjusts based on disruption risk.</li>
+<li> <b>Automatic Parametric Payout</b></li>
+<li> <b>Fraud Detection</b> with GPS verification</li>
+<li> <b>Real-Time Monitoring</b> via APIs</li>
+<li> <b>Worker Dashboard</b></li>
+<li> <b>Risk Zone Map</b></li>
+<li> <b>Universal Worker Insurance ID</b></li>
 </ul>
 
 <hr>
