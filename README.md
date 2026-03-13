@@ -72,7 +72,7 @@ Key Features
 </h2>
 
 <ul>
-<li><img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> <b>AI Risk Prediction</b> – ML models analyze environmental data.</li>
+<li><b>AI Risk Prediction</b> – ML models analyze environmental data.</li>
 <li><img src="https://img.icons8.com/color/20/combo-chart.png"/> <b>Dynamic Weekly Premium</b> – Premium adjusts based on disruption risk.</li>
 <li><img src="https://img.icons8.com/color/20/lightning-bolt.png"/> <b>Automatic Parametric Payout</b></li>
 <li><img src="https://img.icons8.com/color/20/privacy.png"/> <b>Fraud Detection</b> with GPS verification</li>
