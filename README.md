@@ -2,13 +2,11 @@
 
 <img src="https://img.icons8.com/fluency/96/shield.png"/>
 
-<h1>GigShield</h1>
+# GigShield
 
-<h3>AI-Powered Parametric Insurance for Gig Workers</h3>
+### AI-Powered Parametric Insurance for Gig Workers
 
-<p>
 Protecting gig workers from income loss caused by environmental disruptions using AI-powered parametric insurance.
-</p>
 
 <img src="https://img.shields.io/badge/AI-Enabled-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Insurance-Tech-green?style=for-the-badge"/>
@@ -17,302 +15,156 @@ Protecting gig workers from income loss caused by environmental disruptions usin
 
 </div>
 
-<hr>
+---
 
-<h2>
-<img src="https://img.icons8.com/color/28/error.png"/>
-Problem Understanding
-</h2>
+## Problem Understanding
 
-<p>
-Gig workers such as food delivery partners depend completely on daily earnings. Environmental disruptions like heavy rain, heatwaves, air pollution, traffic congestion, or sudden restrictions can significantly reduce their working hours, leading to <b>20–30% income loss</b>.
-</p>
+Gig workers such as food delivery partners depend completely on daily earnings. Environmental disruptions like heavy rain, heatwaves, air pollution, traffic congestion, or sudden restrictions can significantly reduce their working hours, leading to **20–30% income loss**.
 
-<p>
 Existing insurance solutions mainly cover health, accidents, or vehicles, but there is no insurance model that protects gig workers from income loss caused by environmental disruptions.
-</p>
 
-<hr>
+---
 
-<h2>
-<img src="https://img.icons8.com/color/28/user.png"/>
-Persona-Based Scenario
-</h2>
+## Persona-Based Scenario
 
-<h3>Ravi – Food Delivery Partner</h3>
+### Ravi – Food Delivery Partner
 
-<ul>
-<li><b>Age:</b> 26</li>
-<li><b>Platform:</b> Food delivery platforms</li>
-<li><b>Daily Earnings:</b> ₹800–₹1000</li>
-<li><b>Location:</b> Urban delivery zones</li>
-</ul>
+- **Age:** 26  
+- **Platform:** Food delivery platforms  
+- **Daily Earnings:** ₹800–₹1000  
+- **Location:** Urban delivery zones  
 
-<h3>Scenario</h3>
+### Scenario
 
-<p>
-Ravi begins his shift expecting to complete 15–18 deliveries. Suddenly heavy rain begins in his area. Orders reduce and roads become unsafe, forcing him to stop early. By the end of the week, he loses nearly <b>₹3000–₹4000</b> in income.
-</p>
+Ravi starts his shift expecting to complete 15–18 deliveries. Suddenly heavy rain begins in his area. Orders reduce and roads become unsafe, forcing him to stop early. By the end of the week, he loses nearly **₹3000–₹4000** in income.
 
-<p>
 GigShield ensures Ravi receives automatic compensation when environmental disruptions affect his ability to work.
-</p>
 
-<hr>
+---
 
-<h2>
-<img src="https://img.icons8.com/color/28/workflow.png"/>
-Application Workflow
-</h2>
+# Application Workflow
 
 <p align="center">
-<img src="./assets/workflow.png" alt="GigShield Application Workflow" width="900"/>
+
+<img src="https://chatgpt.com/s/m_69b3e080a6188191971a589d4833ee11" width="900">
+
 </p>
+
+Worker Registration → Insurance ID Generation → AI Risk Analysis → GPS Verification → Parametric Trigger Activation → Automatic Payout
+
+---
+
+# System Architecture
 
 <p align="center">
-Worker Registration → Insurance ID Generation → AI Risk Analysis → GPS Verification → 
-Parametric Trigger Activation → Automatic Payout
+
+<img src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-78ac-71fa-8a60-d19bc3116281/raw?se=2026-03-13T10:06:05Z&sp=r&sv=2026-02-06&sr=b&scid=02f47e9c-6eff-440d-8e0a-a19789b025c2&skoid=d5627e4c-566b-4761-a954-54993b0ed17b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-03-12T22:05:01Z&ske=2026-03-13T22:05:01Z&sks=b&skv=2026-02-06&sig=4YiT6h810E3UY3GyRjYCD2gvtglFxz0cBge0GtqGILg%3D" width="900">
+
 </p>
 
-<hr>
+The GigShield system integrates mobile applications, environmental APIs, AI prediction models, fraud detection systems, and automatic payout mechanisms within a scalable cloud architecture.
 
-<h2>
-<img src="https://img.icons8.com/color/28/network.png"/>
-System Architecture
-</h2>
+---
 
-<p align="center">
-<img src="./assets/system-architecture.png" alt="GigShield System Architecture" width="900"/>
-</p>
+# Weekly Premium Model
 
-<p align="center">
-The GigShield system integrates mobile applications, environmental APIs, AI prediction models, 
-fraud detection systems, and automatic payout mechanisms within a scalable cloud architecture.
-</p>
+GigShield uses a **dynamic weekly premium model** aligned with gig workers’ earning cycles.
 
-<hr>
+Premium calculation is based on:
 
-<h2>
-<img src="https://img.icons8.com/color/28/money.png"/>
-Weekly Premium Model
-</h2>
+- Environmental risk level
+- Historical disruption frequency
+- Worker activity patterns
+- AI predicted disruption probability
 
-<p>
-GigShield uses a dynamic weekly premium model aligned with gig workers’ earning cycles.
-</p>
+Workers pay small weekly premiums making insurance affordable.
 
-<ul>
-<li>Environmental risk level in the delivery area</li>
-<li>Historical disruption frequency</li>
-<li>Worker activity patterns</li>
-<li>AI-predicted disruption probability</li>
-</ul>
+---
 
-<p>
-Workers pay small weekly premiums, making the insurance affordable and flexible.
-</p>
+# Parametric Triggers
 
-<hr>
+Parametric triggers automatically activate payouts when thresholds are crossed.
 
-<h2>
-<img src="https://img.icons8.com/color/28/lightning-bolt.png"/>
-Parametric Triggers
-</h2>
+Examples:
 
-<ul>
-<li>Rainfall exceeding defined threshold</li>
-<li>Air Quality Index (AQI) reaching hazardous levels</li>
-<li>Extreme temperature conditions</li>
-<li>Severe traffic congestion</li>
-<li>Government-imposed movement restrictions</li>
-</ul>
+- Rainfall exceeding threshold
+- AQI reaching hazardous levels
+- Extreme temperatures
+- Severe traffic congestion
+- Government movement restrictions
 
-<p>
-Once these conditions are detected, the system automatically triggers compensation without manual claims.
-</p>
+---
 
-<hr>
+# AI / ML Integration
 
-<h2>
-<img src="https://img.icons8.com/color/28/artificial-intelligence.png"/>
-AI / ML Integration
-</h2>
+### Risk Prediction
+Random Forest / Gradient Boosting models predict disruption risk.
 
-<h3>Risk Prediction</h3>
-<p>
-Random Forest and Gradient Boosting models predict disruption risk and determine fair premiums.
-</p>
+### Disruption Forecasting
+LSTM models forecast high-risk environmental conditions.
 
-<h3>Disruption Forecasting</h3>
-<p>
-LSTM models analyze historical environmental data to forecast high-risk conditions.
-</p>
+### Fraud Detection
+Isolation Forest identifies suspicious worker activity.
 
-<h3>Fraud Detection</h3>
-<p>
-Isolation Forest detects suspicious behavior such as abnormal GPS activity or fraudulent claims.
-</p>
+### Risk Zone Mapping
+AI generates delivery zone heatmaps.
 
-<h3>Risk Zone Mapping</h3>
-<p>
-AI generates heatmaps identifying high-risk delivery zones.
-</p>
+---
 
-<hr>
+# Technology Stack
 
-<h2>
-<img src="https://img.icons8.com/color/28/source-code.png"/>
-Technology Stack
-</h2>
+### Frontend
+- React.js – Admin Dashboard
+- Flutter – Worker Mobile App
 
-<h3>Frontend</h3>
+### Backend
+- Node.js
+- FastAPI
 
-<ul>
-<li><img src="https://img.icons8.com/color/20/react-native.png"/> React.js – Admin Dashboard</li>
-<li><img src="https://img.icons8.com/color/20/flutter.png"/> Flutter – Worker Mobile App</li>
-</ul>
+### Machine Learning
+- Random Forest
+- Gradient Boosting
+- LSTM
+- Isolation Forest
 
-<h3>Backend</h3>
+### Database
+- PostgreSQL
+- Redis
 
-<ul>
-<li><img src="https://img.icons8.com/color/20/nodejs.png"/> Node.js</li>
-<li><img src="https://img.icons8.com/color/20/api.png"/> FastAPI</li>
-</ul>
+### APIs
+- OpenWeatherMap
+- Traffic APIs
+- Google Maps / Location API
 
-<h3>Machine Learning</h3>
+### Deployment
+- AWS
+- Docker
+- Firebase
 
-<ul>
-<li>Random Forest / Gradient Boosting</li>
-<li>LSTM Time-Series Forecasting</li>
-<li>Isolation Forest Fraud Detection</li>
-</ul>
+---
 
-<h3>Database</h3>
+# Expected Impact
 
-<ul>
-<li><img src="https://img.icons8.com/color/20/postgreesql.png"/> PostgreSQL</li>
-<li><img src="https://img.icons8.com/color/20/database.png"/> Redis for real-time triggers</li>
-</ul>
+**Gig Workers:** Financial protection during disruptions  
 
-<h3>APIs</h3>
+**Insurance Providers:** Reduced operational cost with automated claims  
 
-<ul>
-<li>OpenWeatherMap API</li>
-<li>Traffic API</li>
-<li>Google Maps / Location API</li>
-</ul>
+**Delivery Platforms:** Improved worker trust and retention
 
-<h3>Deployment</h3>
+---
 
-<ul>
-<li><img src="https://img.icons8.com/color/20/amazon-web-services.png"/> AWS</li>
-<li><img src="https://img.icons8.com/color/20/docker.png"/> Docker</li>
-<li><img src="https://img.icons8.com/color/20/firebase.png"/> Firebase</li>
-</ul>
+# Future Enhancements
 
-<hr>
+- AI income forecasting
+- Blockchain insurance transparency
+- Integration with gig platforms
+- Advanced deep learning models
+- Expansion to ride-hailing workers
 
-<h2>
-<img src="https://img.icons8.com/color/28/road.png"/>
-Development Plan
-</h2>
-
-<h3>Phase 1 – Research & Prototype</h3>
-
-<ul>
-<li>Collect environmental datasets</li>
-<li>Train initial ML models</li>
-<li>Build prototype dashboard</li>
-</ul>
-
-<h3>Phase 2 – MVP Development</h3>
-
-<ul>
-<li>Integrate real-time APIs</li>
-<li>Develop worker mobile interface</li>
-<li>Implement parametric trigger logic</li>
-</ul>
-
-<h3>Phase 3 – Advanced Features</h3>
-
-<ul>
-<li>AI risk heatmaps</li>
-<li>Automated payout system</li>
-<li>Multi-platform integration</li>
-</ul>
-
-<hr>
-
-<h2>
-<img src="https://img.icons8.com/color/28/earth-planet.png"/>
-Expected Impact
-</h2>
-
-<ul>
-<li><b>Gig Workers:</b> Financial protection during disruptions</li>
-<li><b>Insurance Providers:</b> Reduced operational costs with automated claims</li>
-<li><b>Delivery Platforms:</b> Improved worker trust and retention</li>
-</ul>
-
-<hr>
-
-<h2>
-<img src="https://img.icons8.com/color/28/future.png"/>
-Future Enhancements
-</h2>
-
-<ul>
-<li>AI-based income forecasting</li>
-<li>Blockchain-based insurance transparency</li>
-<li>Integration with delivery platforms</li>
-<li>Advanced deep learning risk prediction</li>
-<li>Expansion to ride-hailing and other gig sectors</li>
-</ul>
-
-<hr>
-
-<h2>
-<img src="https://img.icons8.com/color/28/folder-invoices.png"/>
-Project Structure
-</h2>
-
-<pre>
-
-GigShield
-│
-├── README.md
-│
-├── assets
-│   ├── workflow.png
-│   └── system-architecture.png
-│
-├── mobile-app
-│   └── Flutter worker application
-│
-├── web-dashboard
-│   └── React admin dashboard
-│
-├── backend
-│   ├── API services
-│   ├── parametric trigger engine
-│   └── payout service
-│
-├── ml-models
-│   ├── risk_prediction
-│   ├── disruption_forecasting
-│   └── fraud_detection
-│
-└── database
-    └── PostgreSQL schemas
-
-</pre>
-
-<hr>
+---
 
 <div align="center">
 
-<h3>⭐ Star this repository if you like the project</h3>
-
-<p>Built for the future of the Gig Economy.</p>
+⭐ **Star this repository if you like the project**
 
 </div>
