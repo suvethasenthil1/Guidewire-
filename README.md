@@ -58,7 +58,7 @@ Worker Registration → Insurance ID Generation → AI Risk Analysis → GPS Ver
 
 <p align="center">
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a10c7208bb27f1e9746e48b9&ts=492609&p=fs&cid=1&sig=ce902c953046247bc85ca0ad3373a97cfe8f0bf94a9e12cd9120a107a358d466&v=0" width="900">
+<img src="https://sdmntprcentralindia.oaiusercontent.com/files/00000000-8a68-7208-b1a4-661e77e5a16c/raw?se=2026-03-13T10:14:18Z&sp=r&sv=2026-02-06&sr=b&scid=7c95db78-78f8-4ab2-a660-76f6b4d808f1&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-03-12T23:50:44Z&ske=2026-03-13T23:50:44Z&sks=b&skv=2026-02-06&sig=ojNTcsVkClcg3r%2BZ5qfzt2ANBYSLQQplLOeeQsDFpx0%3D" width="900">
 
 </p>
 
