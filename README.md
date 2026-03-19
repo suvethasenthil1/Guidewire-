@@ -46,7 +46,8 @@ GigShield ensures Ravi receives automatic compensation when environmental disrup
 
 <p align="center">
 
-<img src="https://gemini.google.com/share/8219d2b2d454" width="900">
+<img src=[workflow](https://github.com/user-attachments/assets/0453b5f9-b2bb-4d87-bbc5-99ae4bb6ba37)
+ width="900">
 
 </p>
 
@@ -63,7 +64,8 @@ GigShield ensures Ravi receives automatic compensation when environmental disrup
 
 <p align="center">
 
-<img src="https://gemini.google.com/share/ef5a864e9a3c" width="900">
+<img src= ![architecture](https://github.com/user-attachments/assets/8bed02ce-fa91-4642-8ea8-42cf2915221c)
+width="900">
 
 </p>
 
