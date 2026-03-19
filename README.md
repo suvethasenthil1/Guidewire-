@@ -40,6 +40,12 @@ Ravi begins his shift expecting to complete 15–18 deliveries. Suddenly heavy r
 
 GigShield ensures Ravi receives automatic compensation when environmental disruptions affect his ability to work.
 
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/d5aca0b8-e5bf-4164-9a45-0e52af44825f" width="900" alt="Persona-Based Scenario">
+
+</p>
+
 ---
 
 # <img src="https://img.icons8.com/color/28/workflow.png"/> Application Workflow
