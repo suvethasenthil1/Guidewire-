@@ -120,7 +120,7 @@ Workers pay small weekly premiums making the insurance affordable and flexible.
 <img src="https://img.icons8.com/color/20/artificial-intelligence.png"/> Isolation Forest  
 
 ### Database
-<img src="https://img.icons8.com/color/20/postgreesql.png"/> PostgreSQL  
+<img src="https://img.icons8.com/color/20/postgreesql.png"/> MongoDB
 <img src="https://img.icons8.com/color/20/database.png"/> Redis  
 
 ### APIs
