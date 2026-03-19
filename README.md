@@ -155,6 +155,20 @@ Workers pay small weekly premiums making the insurance affordable and flexible.
 
 ---
 
+---
+
+# 🎥 Prototype Demo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HJLQLZpoj-kSqdCzzYZOZuoTBZov1ksy/view?usp=sharing">
+    <img src="https://img.icons8.com/color/96/video.png"/>
+    <br><br>
+    <b>Click to Watch the Prototype Demo</b>
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 ⭐ **Star this repository if you like the project**
